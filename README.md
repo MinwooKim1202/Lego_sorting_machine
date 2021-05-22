@@ -1,8 +1,6 @@
 # Lego_sorting_machine
 2021년 경기과학기술대학교 전자통신과 졸업작품
 
-# Project Title / 프로젝트 이름
-
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
