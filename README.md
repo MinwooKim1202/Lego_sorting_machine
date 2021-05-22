@@ -13,10 +13,10 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 아래 사항들이 설치가 되어있어야합니다.
 
 ```
-opencv-python
-tensorflow
-keras
-PyQt5
+*opencv-python
+*tensorflow
+*keras
+*PyQt5
 ```
 
 ### Installing / 설치
