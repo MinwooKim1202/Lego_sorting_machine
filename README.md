@@ -13,10 +13,9 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 아래 사항들이 설치가 되어있어야합니다.
 
 ```
-* opencv-python
-* tensorflow
-* keras
-* PyQt5
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/lang/en/) - Node.js 패키지 매니저
+- [node](https://nodejs.org/ko/) - 자바스크립트 런타임
+- [redis](https://redis.io/) - In Memory 데이터 스토리지
 ```
 
 ### Installing / 설치
