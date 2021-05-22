@@ -1,20 +1,20 @@
 # Lego_sorting_machine
 2021년 경기과학기술대학교 전자통신과 졸업작품
 
+### Members
+- 김민우 : 팀장, Object Detection, Image classification, Image Augmentation, Arduino Firmware, Pyqt5 Gui Program
+
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
 ### Implements Detail
 - SW
-  - lane tracing using OpenCV (image processing Library)
-  - Object Detection using Deep Learning ([YOLO v2](https://arxiv.org/pdf/1612.08242.pdf))
-  - We can detect Car, Pedestrian, Stop sign and Traffic sign.
+  - Object Detection using OpenCV (image processing Library)
+  - Image Classification using Deep Learning (Keras)
 
 - HW
-  - DC Motor for driving power
-  - Servo Motor for direction control
-  - Ultrasonic sensor for front obstacle detection
-  - RFID for Bus Stop Recognition
+  - DC Motor for driving Conveyor belt
+  - Step Motor for sorting Lego
 
 ## Getting Started / 어떻게 시작하나요?
 
