@@ -13,10 +13,10 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 아래 사항들이 설치가 되어있어야합니다.
 
 
-- [opencv-python](https://www.npmjs.com/)  - Node.js 패키지 매니저
-- [tensorflow](https://nodejs.org/ko/) - 자바스크립트 런타임
-- [keras](https://redis.io/) - In Memory 데이터 스토리지
-- [Pyqt5]
+- [opencv-python](https://pypi.org/project/opencv-python/)  - Opensource 컴퓨터 비전 라이브러리
+- [tensorflow](https://www.tensorflow.org/?hl=ko) - 딥러닝 프레임워크
+- [keras](https://keras.io/) - High-level 딥러닝 프레임워크
+- [Pyqt5] (https://pypi.org/project/PyQt5/) - Python Gui 프레임워크
 
 
 ### Installing / 설치
