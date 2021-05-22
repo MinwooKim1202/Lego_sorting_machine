@@ -4,6 +4,18 @@
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
+### Implements Detail
+- SW
+  - lane tracing using OpenCV (image processing Library)
+  - Object Detection using Deep Learning ([YOLO v2](https://arxiv.org/pdf/1612.08242.pdf))
+  - We can detect Car, Pedestrian, Stop sign and Traffic sign.
+
+- HW
+  - DC Motor for driving power
+  - Servo Motor for direction control
+  - Ultrasonic sensor for front obstacle detection
+  - RFID for Bus Stop Recognition
+
 ## Getting Started / 어떻게 시작하나요?
 
 이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
