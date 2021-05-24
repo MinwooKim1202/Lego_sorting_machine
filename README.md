@@ -17,10 +17,6 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
   - DC Motor for driving Conveyor belt
   - Step Motor for sorting Lego
 
-## Getting Started / 어떻게 시작하나요?
-
-이 곳에서 설치에 관련된 이야기를 해주시면 좋습니다.
-
 ### Prerequisites / 선행 조건
 
 아래 사항들이 설치가 되어있어야합니다.
@@ -40,27 +36,12 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 예시
 ```
 
-## Running the tests / 테스트의 실행
 
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
-
-### 테스트는 이런 식으로 동작합니다
-
-왜 이렇게 동작하는지, 설명합니다
 
 ```
 예시
 ```
 
-### 테스트는 이런 식으로 작성하시면 됩니다
-
-```
-예시
-```
-
-## Deployment / 배포
-
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
 
 ## Built With / 누구랑 만들었나요?
 
