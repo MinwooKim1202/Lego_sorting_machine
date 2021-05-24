@@ -53,9 +53,3 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 ```
 
 
-## Built With / 누구랑 만들었나요?
-
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
-
-
