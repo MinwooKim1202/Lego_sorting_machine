@@ -2,8 +2,18 @@
 2021년 경기과학기술대학교 전자통신과 졸업작품
 
 ### Members
-- 김민우 : 팀장, Object Detection, Image classification, Image Augmentation, Arduino Firmware, Pyqt5 Gui Program
 
+- **김민우**
+  - **Github**: [MinwooKim1202](https://github.com/MinwooKim1202)
+  - **Role**: 팀장, 일정 및 이슈 관리, 문서 관리, AI 및 SW(OpenCV, Jetson nano gui program, Firmware) 개발 총괄
+    - 프로젝트 및 교수님과 미팅 일정 관리
+    - 프로젝트 개발 내용 문서화
+    - Object Detection
+    - Image classification
+    - Image Augmentation
+    - Arduino Firmware
+    - Pyqt5 Gui Program
+    - 
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
