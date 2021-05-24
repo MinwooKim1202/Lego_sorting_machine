@@ -13,6 +13,11 @@
     - Image Augmentation
     - Arduino Firmware
     - Pyqt5 Gui Program
+ 
+ ### What is Lego sorting machine?
+- 경기과학기술대학교 전자통신과 캡스톤 디자인 작품으로 개발한 '딥러닝 기반 레고 분류 시스템' 이다.
+- Keras, OpenCV, TensorRT, Jetson nano, Pyqt5, Arduino, Dc motor, Step motor 등을 이용하여 구현하였다.
+
     
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
