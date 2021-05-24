@@ -37,19 +37,3 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 - [keras](https://keras.io/) - High-level 딥러닝 프레임워크
 - [Pyqt5](https://pypi.org/project/PyQt5/) - Python Gui 프레임워크
 
-
-### Installing / 설치
-
-아래 사항들로 현 프로젝트에 관한 모듈들을 설치할 수 있습니다.
-
-```
-예시
-```
-
-
-
-```
-예시
-```
-
-
