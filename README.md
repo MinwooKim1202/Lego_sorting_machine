@@ -11,6 +11,7 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 - SW
   - Object Detection using OpenCV (image processing Library)
   - Image Classification using Deep Learning (Keras)
+  - user interface using Gui program (Pyqt5)
 
 - HW
   - DC Motor for driving Conveyor belt
