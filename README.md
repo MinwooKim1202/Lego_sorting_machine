@@ -42,3 +42,5 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 - [keras](https://keras.io/) - High-level 딥러닝 프레임워크
 - [Pyqt5](https://pypi.org/project/PyQt5/) - Python Gui 프레임워크
 
+![판넬](https://user-images.githubusercontent.com/26687721/153013291-ac3f7e35-1249-4691-9068-732cd9b6905f.png)
+
