@@ -55,3 +55,5 @@
 - [Pyqt5](https://pypi.org/project/PyQt5/) - Python Gui 프레임워크
 
 ![상장](https://user-images.githubusercontent.com/26687721/153015808-fa35b2a4-a81a-4b0b-90fc-097f65b7766a.jpg)
+
+<iframe width="744" height="419" src="https://www.youtube.com/embed/Hir20solHak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
