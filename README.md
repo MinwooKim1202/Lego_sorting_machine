@@ -53,3 +53,5 @@
 - [tensorflow](https://www.tensorflow.org/?hl=ko) - 딥러닝 프레임워크
 - [keras](https://keras.io/) - High-level 딥러닝 프레임워크
 - [Pyqt5](https://pypi.org/project/PyQt5/) - Python Gui 프레임워크
+
+![상장](https://user-images.githubusercontent.com/26687721/153015808-fa35b2a4-a81a-4b0b-90fc-097f65b7766a.jpg)
