@@ -32,23 +32,24 @@
   - DC Motor for driving Conveyor belt
   - Step Motor for sorting Lego
 
+### Hardware Design
+![회로부](https://user-images.githubusercontent.com/26687721/153013490-adac6498-85c6-4db6-a42e-f6c9957d3a87.jpg)
+![기구부조립완료](https://user-images.githubusercontent.com/26687721/153013548-b2e9c2d5-f0fd-43e4-8755-49a8730e7513.jpg)
+![3D설계도면](https://user-images.githubusercontent.com/26687721/153013470-16fd4c65-dcc6-4731-86ce-55bd468f4cc3.png)
+
+
+### poster presentation
+![판넬](https://user-images.githubusercontent.com/26687721/153013291-ac3f7e35-1249-4691-9068-732cd9b6905f.png)
+
+### Experiment
+![다운로드](https://user-images.githubusercontent.com/26687721/153014638-c71fab2a-10c7-447e-9793-4a2e77ef7efd.png)
+![다운로드 (1)](https://user-images.githubusercontent.com/26687721/153014694-6be3d5a2-89c1-4ee6-903b-4486d33f58c0.png)
+
 ### Prerequisites / 선행 조건
 
 아래 사항들이 설치가 되어있어야합니다.
-
 
 - [opencv-python](https://pypi.org/project/opencv-python/)  - Opensource 컴퓨터 비전 라이브러리
 - [tensorflow](https://www.tensorflow.org/?hl=ko) - 딥러닝 프레임워크
 - [keras](https://keras.io/) - High-level 딥러닝 프레임워크
 - [Pyqt5](https://pypi.org/project/PyQt5/) - Python Gui 프레임워크
-
-![회로부](https://user-images.githubusercontent.com/26687721/153013490-adac6498-85c6-4db6-a42e-f6c9957d3a87.jpg)
-![기구부조립완료](https://user-images.githubusercontent.com/26687721/153013548-b2e9c2d5-f0fd-43e4-8755-49a8730e7513.jpg)
-![3D설계도면](https://user-images.githubusercontent.com/26687721/153013470-16fd4c65-dcc6-4731-86ce-55bd468f4cc3.png)
-
-![판넬](https://user-images.githubusercontent.com/26687721/153013291-ac3f7e35-1249-4691-9068-732cd9b6905f.png)
-
-![다운로드](https://user-images.githubusercontent.com/26687721/153014638-c71fab2a-10c7-447e-9793-4a2e77ef7efd.png)
-ges.githubusercontent.com/26687721/153013525-a231cb69-e96f-4820-b545-e62a0c045a15.jpg)
-![다운로드 (1)](https://user-images.githubusercontent.com/26687721/153014694-6be3d5a2-89c1-4ee6-903b-4486d33f58c0.png)
-
