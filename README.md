@@ -1,6 +1,9 @@
 # Lego_sorting_machine
 2021년 경기과학기술대학교 전자통신과 졸업작품
 
+![완성 top뷰](https://user-images.githubusercontent.com/26687721/153013511-20207550-eeca-41c2-84ce-20514b09614d.jpg)
+![완성 측면](https://user-images.githubusercontent.com/26687721/153013525-a231cb69-e96f-4820-b545-e62a0c045a15.jpg)
+
 ### Members
 
 - **김민우**
@@ -42,10 +45,8 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 - [keras](https://keras.io/) - High-level 딥러닝 프레임워크
 - [Pyqt5](https://pypi.org/project/PyQt5/) - Python Gui 프레임워크
 
-![판넬](https://user-images.githubusercontent.com/26687721/153013291-ac3f7e35-1249-4691-9068-732cd9b6905f.png)
-
-![3D설계도면](https://user-images.githubusercontent.com/26687721/153013470-16fd4c65-dcc6-4731-86ce-55bd468f4cc3.png)
 ![회로부](https://user-images.githubusercontent.com/26687721/153013490-adac6498-85c6-4db6-a42e-f6c9957d3a87.jpg)
-![완성 top뷰](https://user-images.githubusercontent.com/26687721/153013511-20207550-eeca-41c2-84ce-20514b09614d.jpg)
-![완성 측면](https://user-images.githubusercontent.com/26687721/153013525-a231cb69-e96f-4820-b545-e62a0c045a15.jpg)
 ![기구부조립완료](https://user-images.githubusercontent.com/26687721/153013548-b2e9c2d5-f0fd-43e4-8755-49a8730e7513.jpg)
+![3D설계도면](https://user-images.githubusercontent.com/26687721/153013470-16fd4c65-dcc6-4731-86ce-55bd468f4cc3.png)
+
+![판넬](https://user-images.githubusercontent.com/26687721/153013291-ac3f7e35-1249-4691-9068-732cd9b6905f.png)
