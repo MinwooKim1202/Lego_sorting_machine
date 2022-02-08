@@ -1,5 +1,5 @@
 # Lego_sorting_machine
-2021년 경기과학기술대학교 전자통신과 졸업작품
+2021년 경기과학기술대학교 전자공학과 졸업작품
 
 ![완성 top뷰](https://user-images.githubusercontent.com/26687721/153013511-20207550-eeca-41c2-84ce-20514b09614d.jpg)
 ![완성 측면](https://user-images.githubusercontent.com/26687721/153013525-a231cb69-e96f-4820-b545-e62a0c045a15.jpg)
@@ -8,10 +8,10 @@
 
 - **김민우**
   - **Github**: [MinwooKim1202](https://github.com/MinwooKim1202)
-  - **Role**: 팀장, 일정 및 이슈 관리, 문서 관리, AI 및 SW(OpenCV, Jetson nano gui program, Firmware) 개발 총괄
+  - **Role**: 팀장, AI 및 SW(OpenCV, Jetson nano gui program, Firmware) 개발 
     - 프로젝트 및 교수님과 미팅 일정 관리
     - 프로젝트 개발 내용 문서화
-    - Object Detection
+    - Object Localization
     - Image classification
     - Image Augmentation
     - Arduino Firmware
@@ -21,13 +21,10 @@
 - 경기과학기술대학교 전자통신과 캡스톤 디자인 작품으로 개발한 '딥러닝 기반 레고 분류 시스템' 이다.
 - Keras, OpenCV, TensorRT, Jetson nano, Pyqt5, Arduino, Dc motor, Step motor 등을 이용하여 구현하였다.
 
-    
-**[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
-One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
 ### Implements Detail
 - SW
-  - Object Detection using OpenCV (image processing Library)
+  - Object Localization using OpenCV (image processing Library)
   - Image Classification using Deep Learning (Keras)
   - user interface using Gui program (Pyqt5)
 
